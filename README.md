@@ -172,7 +172,7 @@ Pull requests and suggestions are welcome! Please open an issue or submit a PR.
 ## 📄 License
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License**.  
-It also includes third-party software licensed under the **MIT License** (see [LICENSE](./LICENSE) file for details).
+It also includes third-party software licensed under the **MIT License** (see [LICENSE](LICENSE.md) file for details).
 
 ---
 
