@@ -171,7 +171,8 @@ Pull requests and suggestions are welcome! Please open an issue or submit a PR.
 
 ## 📄 License
 
-This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License**.
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License**.  
+It also includes third-party software licensed under the **MIT License** (see [LICENSE](./LICENSE) file for details).
 
 ---
 
@@ -180,14 +181,3 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial 
 **Developer**: Erdemhan Özdin - [https://github.com/Erdemhan](https://github.com/Erdemhan)  Email: erdemhan@erciyes.edu.tr
 
 **Dockerization**: Bengisu Yavuz - [https://github.com/bengisu17](https://github.com/bengisu17)
-
-
----
-
-## 📄 Third-Party Licenses
-
-This project includes third-party components licensed under the MIT License:
-
-- **Creative Tim UI Template** is licensed under the [MIT License](licenses/creative-tim.MIT).
-  - Copyright (c) 2017 Creative Tim
-  - See [`licenses/creative-tim.md`](licenses/creative-tim.MIT) for the full text.
